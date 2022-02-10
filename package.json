@@ -27,7 +27,7 @@
     "@megalo/target": "latest",
     "@megalo/template-compiler": "latest",
     "eslint": "^5.15.3",
-    "node-sass": "^4.10.0",
+    "node-sass": "^7.0.0",
     "sass-loader": "^7.1.0"
   },
   "dependencies": {
